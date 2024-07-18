@@ -1,1 +1,0 @@
-#names of students who have marks in english greater than 50
