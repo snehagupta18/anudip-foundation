@@ -1,0 +1,3 @@
+The quick brown fox jumps over the lazy dog.
+Sky is blue.
+Time flies when you're having fun.
